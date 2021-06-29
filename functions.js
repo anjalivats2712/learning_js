@@ -20,11 +20,11 @@ function greatest(a,b,c,d){
 
 
 }
-d1 = greatest(3,45,5,6);
+d1 = greatest(3,45,5,60);
 console.log(d1);
 
 c1=avg(3,5);
-c2=avg(4,6);
+c2=avg(4,10);
 console.log(c1,c2);
 
 //here u can take example of if else ladder
