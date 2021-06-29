@@ -6,7 +6,7 @@
  var num1=34;
  var num2=45.4;
 
- //object variables
+ //object variables (just like dictionary in python)
  var flowers={
      riva:"rose",
      shivani:'lotus',
